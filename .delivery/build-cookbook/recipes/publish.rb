@@ -13,7 +13,7 @@ project_app_attributes = {
   'artifact_location' => artifact_location
 }
 
-name = demo_project2
+name = 'demo_project2'
 
 define_project_application(
   name,
